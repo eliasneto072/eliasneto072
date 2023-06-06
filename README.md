@@ -1,4 +1,4 @@
-<h2 style="color: white">Olá eu sou o Elias Neto 🤘🏽</h2>
+<h2 style="color: white">Olá eu me chamo Elias Neto 🤘🏽</h2>
 
 <br>
 
