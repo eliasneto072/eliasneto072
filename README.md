@@ -78,15 +78,11 @@ Backend-focused developer passionate about building **real systems** — not dra
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eliasneto072&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true&bg_color=0d1b2a&title_color=f5b841&icon_color=3ad6c5&text_color=eef4fb&cache_seconds=1800" alt="Estatísticas do GitHub de Elias"/>
+  <img src="./metrics.svg" alt="Métricas do GitHub de Elias"/>
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasneto072&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1b2a&title_color=f5b841&text_color=eef4fb&cache_seconds=1800" alt="Linguagens mais usadas"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliasneto072&theme=midnight-purple&hide_border=true&background=0d1b2a&ring=f5b841&fire=3ad6c5&currStreakLabel=f5b841" alt="Sequência de contribuições"/>
+  <img src="./metrics-languages.svg" alt="Linguagens mais usadas"/>
 </p>
 
 ---
